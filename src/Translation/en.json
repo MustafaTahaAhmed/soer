@@ -1,0 +1,117 @@
+{
+  "Navbar": {
+    "Beatona": "Kuwait State of Environment Report",
+    "Kuwait Official Environmental Portal": "Kepa",
+    "Environment & Development": "Environment & Development",
+    "Climate Change": "Climate Change",
+    "Waste": "Waste",
+    "Land Resources": "Land Resources",
+    "Water Resources": "Water Resources",
+    "Atmosphere": "Atmosphere",
+    "Biodiversity": "Biodiversity",
+    "Coastal & Marine": "Coastal & Marine",
+    "Outlook": "Outlook"
+  },
+  "home": {
+    "Chapters": "Chapters"
+  },
+  "footer": {
+    "Environment Public Authority": "Environment Public Authority",
+    "Environmental Data Department": "Environmental assessment and follow-up department",
+    "Shuwaikh Industrial - Fourth Ring Road, Kuwait": "Shuwaikh Industrial - Fourth Ring Road, Kuwait",
+    "Beatona": "UNEP",
+    "Kuwait official Environmental Portal": "Kuwait official Environmental Portal",
+    "phone": "+965 22208310",
+    "beatona@emisk.org": "beatona@emisk.org",
+    "Copyright 2023: Environment Public Authority": "Copyright 2023: Environment Public Authority"
+  },
+ 
+  "Environment": {
+    "Key Messages": "Key Messages",
+    "title": "Pillar Data Visualization / Environment and Development",
+
+    "message1": "There are a set of determinants playing a fundamental role in the environmental changes observed in Kuwait. Among the most significant of these determinants is the total reliance on oil and gas industries as the primary sources for economic and social development. This is coupled with accelerated rates of economic and social growth driven by oil export revenues and its derivatives, scarcity in water resources due to the arid climate, limited lands suitable for agriculture, high rates of urbanization, and substantial changes in population growth and demographic structure resulting from the influx of migrant workers from neighboring Arab countries or East Asian nations.",
+    "message2": "The high-income level in Kuwait, bolstered by policies subsiding energy, water, and food prices, acts as a significant driver for unsustainable consumption. This, in turn, leads to further depletion of natural resources and increased production of various waste types.",
+    "message3": "Most of Kuwait's population resides in urban areas (98% of the population), predominantly along the coast. This places intense pressure on sensitive coastal ecosystems such as mangrove swamps and coral reefs, which serve as vital habitats for numerous species. Low-lying areas are vulnerable to sea-level rise due to climate change. Such conditions exert immense strain on infrastructure and services, including housing, electricity, transportation, water, sanitation, waste management, healthcare, education, and others.",
+    "message4": "The domestic sector in Kuwait consumes approximately 45% of the electricity and 66% of the desalinated water. Although Kuwait is among the regions with the highest water stress globally, the per capita consumption of municipal water remains among the highest worldwide, at 447 liters/person/day.",
+    "message5": "Geographical and climatic conditions, such as drought events, dust storms, and heatwaves, play a crucial role in the degradation of Kuwait's ecological systems. The Kuwaiti population is exposed to these harsh environmental conditions, leading to an elevated risk of chronic respiratory diseases, fatalities, and subsequent economic and social implications.",
+    "message6": "Several environmental challenges still need to be addressed in the upcoming phase. These include: Increased per capita carbon emissions. Growing reliance on fossil fuels for electricity generation. Decreased energy and water-use efficiency. Vulnerability to climate change risks. Transboundary air pollutants, especially dust and sandstorms. Marine pollution and coastal area degradation. Unsustainable patterns of production and consumption."
+  },
+  "climate-change": {
+    "Key Messages": "Key Messages",
+    "title": "Data Visualization / Environment and Development",
+  
+    "message1": "Climate change is one of the most significant challenges to achieving sustainable development in the State of Kuwait. Climate change will exacerbate most current environmental problems, especially those resulting from geographical and climatic conditions, such as water scarcity, desertification, and rising temperatures. Therefore, adaptation to climate change must be integrated into all sectoral and national policies.",
+    "message2": "The Kuwaiti economy relies on a single source of income, which is the oil industry. This leads to a high carbon footprint and an increase in per capita emissions. Kuwait is also exposed to the economic impacts resulting from global energy transition as per the Paris Agreement on climate change. This necessitates an acceleration in studying these impacts and working on speeding up the pace of economic diversification.",
+    "message3": "Due to the scarcity of fresh water resources, Kuwait primarily depends on desalinating seawater to meet its water needs. Therefore, the electricity and water sector, the largest consumer of hydrocarbon resources, represents the largest source of greenhouse gas emissions.",
+    "message4": "Geographical and climatic conditions, supported by electricity and water pricing policies, play a crucial role in increasing demand for both, necessitating the need to enhance policies for improving energy and water efficiency.",
+    "message5": "Within the framework of Kuwait Vision 2035, climate action in Kuwait is carried out through the National Adaptation Plan 2019-2030. The goal is to achieve carbon neutrality in the oil industry by 2050 and in the remaining sectors by 2060. It is essential to enhance the utilization of funding opportunities, transfer green technology, and build capacities available through the global climate system."
+  }
+  ,
+  "waste-management": {
+    "Key Messages": "Key Messages",
+    "title": "Data Visualization / Environment and Development",
+    "message1": "Population growth, urban development, and heavy reliance on the oil and gas industry, coupled with a high per capita income, are the main factors contributing to the continuous increase in waste production rates. The per capita waste generation (1.6 kilograms per person per day) exceeds the global average (0.74 kilograms), with organic waste constituting about 50% of the total waste.",
+    "message2": "It is crucial to develop a clear action plan for managing organic waste, utilizing it, and reducing its environmental impact resulting from unengineered landfill operations.",
+    "message3": "Final disposal of solid municipal waste occurs through unengineered landfills, negatively impacting groundwater and soil, and leading to greenhouse gas emissions due to increased organic components in the waste.",
+    "message4": "The amount of recyclable waste in Kuwait is 4.8 million tons annually, representing over 20% of the total solid waste. Despite having 24 recycling plants approved by the Environmental Public Authority, there is no source separation system for most solid waste, leading to random sorting and recycling.",
+    "message5": "Expansion of sewage treatment plants and networks is required to maximize the use of treated water, partially meeting the demand for water amidst limited freshwater resources.",
+    "message6": "Promoting the transition to a circular economy to harness wasted resources and create new opportunities for sustainable economic growth, aligning with the goals outlined in Kuwait's National Waste Management Strategy 2040."
+  },
+  "land": {
+    "Key Messages": "Key Messages",
+    "title": "Data Visualization / Environment and Development",
+    "message1": "Population growth and increasing urban expansion are the primary pressures on terrestrial environmental resources. The areas of land used for housing expansion projects increased by approximately 70% during the period 2000-2016.",
+    "message2": "Accumulation of agricultural waste in Kuwait leads to the release of significant amounts of greenhouse gases. Statistics indicate the production of around 141,181 gigagrams of these gases. This emission disparity significantly contributes to worsening the phenomenon of global warming (Kuwait's National Adaptation Plan for the period 2019-2030).",
+    "message3": "Soil in Kuwait's desert regions is adversely affected by soil compression and grazing, leading to its deterioration and negative impact on biodiversity. This results in the extinction of some plant and animal species in desert and local areas, with a loss of vegetation cover.",
+    "message4": "Weather conditions such as sandstorms and the dense spread of sand (sabkha) in Kuwait pose a threat to several key sectors in the country, including the oil, agriculture, defense, land transportation, energy, water, environment, and public health sectors. Moreover, it extends to the accumulation of vast amounts of scattered sand on highways, causing numerous traffic accidents.",
+    "message5": "Due to water scarcity, limited arable land, and dry conditions, Kuwait heavily depends on food imports from abroad, making it more vulnerable to fluctuations in global food markets."
+  },
+  "water": {
+    "Key Messages": "Key Messages",
+    "title": "Data Visualization / Environment and Development",
+    "message1": "The importance of transitioning from ensuring 'Supply Sustainability' to ensuring 'Consumption Sustainability.' Following a sustainable approach in demand management, maximizing efficiency, and conserving water are key in this context. The Unified Water Strategy for the Gulf Cooperation Council countries by 2035 serves as an appropriate and effective framework to support this vital transition.",
+    "message2": "Promoting the use of treated sewage water. Maximizing the use of treated sewage water as an available source in Kuwait.",
+    "message3": "Promoting the use of desalination technologies powered by renewable energy. Kuwait should be a leader in using renewable energy in desalination processes, aiming to reduce reliance on fossil resources and enhance the sustainability of local water sources.",
+    "message4": "Reforming the support and tariff structure. International experience shows that reforming the support structure and improving tariffs can be strong incentives to encourage users to conserve water consumption and adopt more sustainable consumption habits.",
+    "message5": "Enhancing the efficiency of water use and adopting innovative solutions based on modern technology. The use of modern technology, such as smart irrigation devices and the Internet of Things system, enhances water consumption efficiency in various water use sectors.",
+    "message6": "Investing in research and development in the field of new water technologies. Establishing specialized research centers and enhancing collaboration with research institutions contributes to the development of more efficient and economical water technologies.",
+    "message7": "Adopting integrated strategies such as the Water-Energy-Food Nexus. The Water-Energy-Food Nexus provides a comprehensive approach to managing water resources and achieving a balance between water, energy, and food, contributing to improving the sustainability of these sectors.",
+    "message8": "Improving data collection and reliability. Accurate and reliable data collection is crucial for achieving effective water management."
+  },
+  "Atmosphere": {
+    "Key Messages": "Key Messages",
+    "title": "Data Visualization / Environment and Development",
+    "message1": "Air quality in Kuwait is influenced by emissions from power plants, oil refineries, petrochemical industries, as well as vehicle emissions. These activities are linked to increased demand due to population growth and urban expansion. Natural sources crossing borders, such as dust storms carried by winds from neighboring countries, are among the major sources of air pollution in Kuwait.",
+    "message2": "Policies shifting to low-sulfur fuel types, such as natural gas in power generation stations, will reduce air pollutant emissions and greenhouse gases.",
+    "message3": "Concentrations of fine particulate matter have exceeded allowable limits, even though these limits are much higher than those set by the World Health Organization. Increased levels of fossil fuel consumption in power stations have led to surpassing allowable limits for sulfur dioxide and nitrogen dioxide concentrations.",
+    "message4": "Completing the implementation of the National Air Quality Strategy, currently underway, will address many current gaps in air quality management, such as completing monitoring systems, information systems, prediction programs, and preparing environmental burden reports. This will enhance the institutional and human capacities needed for effective air quality management in Kuwait."
+  }
+  
+,"biodiversity": {
+  "Key Messages": "Key Messages",
+  "title": "Data Visualization / Environment and Development",
+  "message1": "Kuwait is characterized by the presence of over 3500 species despite its small size and desert environment. 60% of these are concentrated in the sea or along the coasts, making it the most affected by various environmental pressures.",
+  "message2": "Pressures affecting biodiversity in Kuwait vary between natural ones resulting from challenging geographical and climatic conditions and those resulting from human activities such as urban expansion, overfishing, and various pollution sources, especially water desalination plants, sewage treatment plants, and desert camping activities.",
+  "message3": "Fishery production relies on rich biodiversity of lower-ranked organisms that are more sensitive to the chemical and physical variables of the sea and its coasts. Therefore, more studies and research are needed to enact national legislation that preserves fishery wealth, ensures the sustainability of marine resources, and provides food security.",
+  "message4": "Kuwait has effectively joined many international and regional agreements concerned with biodiversity conservation. It is committed to implementing its obligations under these agreements, including incorporating biodiversity protection into the Environmental Protection Law (Law No. 42 of 2014) and its amendments in 2019.",
+  "message5": "To preserve biodiversity, over 2000 km2, about 12% of Kuwait's area, has been allocated as natural reserves, including terrestrial, marine, and coastal reserves. Increasing the number of these reserves and unifying their oversight authority could be beneficial."
+}
+,
+"future": {
+  "Key Messages": "Key Messages",
+  "title": "Data Visualization / Environment and Development",
+  "message1": "There are several political, economic, technological, and other driving forces that may have implications for the future of development and the environment in Kuwait.",
+  "message2": "Two future scenarios have been selected: 'Green Kuwait' and 'Safe Kuwait,' in addition to the usual scenario (New Kuwait). This was done through a participatory process to envision the future until 2035, aiming to impact these variables on the state of the Kuwaiti environment (climate change, biodiversity conservation, pollution, and waste).",
+  "message3": "Preparing to face each of the future scenarios requires implementing numerous reforms in current policies, whether to address the low-carbon green transition or to confront development scenarios amidst regional or global instability."
+}
+,
+"HomeText" :{
+  "text": "Welcome to the Dashboard of the Kuwait State of the Environment Report, a resource developed by the Kuwait Environment Public Authority (KEPA) to facilitate access to comprehensive environmental information. This report holds significant importance, as it serves as a foundational guide for shaping forthcoming environmental policies in Kuwait. Additionally, it plays a crucial role in informed decision-making and serves as an early-warning system for emerging environmental issues.\n\nThe dashboard is thoughtfully designed to provide users with ease of navigation, allowing for a systematic exploration of various environmental aspects in Kuwait.\n\nCovering essential topics such as Environment & Development, Climate Change, Waste, Land Resources, Water Resources, Atmosphere, Biodiversity, Coastal & Marine, and Outlook, each chapter offers a detailed analysis of challenges, trends, and potential solutions in a concise format.\n\nEmbark on your exploration by clicking on the cards or using the navigation bar. For a comprehensive understanding, the full report is available for download at the bottom of this page. Begin your journey by selecting a chapter card, delving into the nuanced narrative of Kuwait's environmental landscape." 
+} 
+,
+"btn" :{
+  "btnFirst": "Click Here to Download!"
+} 
+  
+}

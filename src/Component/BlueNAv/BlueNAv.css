@@ -1,0 +1,41 @@
+.container-navblue {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+.divinnav {
+  display: flex;
+  flex-direction: column;
+  height: 5.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  width: 7rem;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.divinnav:hover {
+  background-color: #0399d8;
+}
+.title {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13px;
+  text-align: center;
+}
+.title12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.test {
+  background-color: #3696b4;
+}

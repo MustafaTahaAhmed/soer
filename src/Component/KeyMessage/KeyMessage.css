@@ -1,0 +1,35 @@
+.cardcont1 {
+  display: none;
+  flex-direction: column;
+  margin: 0 auto; /* Center the container horizontally */
+  width: 30rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid rgba(84, 84, 84, 0.655);
+  padding: 2rem;
+  border-radius: 10px;
+  height: auto; /* Let the height adjust based on content */
+  cursor: pointer;
+  background-color: aliceblue;
+}
+
+.cardcont1:hover .title-card1 {
+  color: #3696b4;
+}
+
+.iconcard {
+  margin-top: 1rem; /* Adjust margin-top for spacing */
+  margin-bottom: 1rem; /* Adjust margin-bottom for spacing */
+}
+
+.title-card1 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: black;
+  font-family: "regular";
+}
+
+.title-description {
+  line-height: 1.8rem;
+}

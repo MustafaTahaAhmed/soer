@@ -1,0 +1,36 @@
+
+.footer-cont1 {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+  background-color:#3696B4;
+}
+
+.footer-logo2 {
+  margin-top: 1%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  align-items: center;
+  width: 11rem;
+
+  height: 3rem;
+}
+
+.copyright {
+  display: flex;
+
+  color: white;
+  margin-top: 5%;
+}
+.powered-by-link {
+  color:  white;
+  text-decoration: none; /* Remove default underline */
+  font-weight: bold; /* Set your desired font weight */
+  margin-bottom: 13%;
+}

@@ -1,0 +1,112 @@
+.carousel {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 500px;
+  z-index: 100;
+}
+
+.slide {
+  border-radius: 0.5rem;
+
+  width: 100%;
+  height: 100%;
+  display: flex;
+  margin-bottom: 2rem;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.5s ease-in-out;
+}
+.slide.slide-hidden {
+  opacity: 0;
+}
+.textcontent {
+  opacity: 0.8;
+  font-size: 1.3rem;
+  /* font-weight: 700; */
+  padding: 0.5rem;
+
+  color: white;
+  border-radius: 1rem;
+  background-color: #3696B4;
+  font-family: "Nunito","regular";
+  width: 80%;
+  text-align: center;
+}
+
+.slide-hidden {
+  display: none;
+}
+
+.arrow {
+  position: absolute;
+  filter: drop-shadow(0px 0px 5px #555);
+  width: 2rem;
+  height: 2rem;
+  color: white;
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+.arrow-left {
+  left: 1rem;
+}
+
+.arrow-right {
+  right: 1rem;
+}
+
+.indicators {
+  display: flex;
+  position: absolute;
+  bottom: 1rem;
+}
+
+.indicator {
+  background-color: white;
+  height: 0.5rem;
+  width: 0.3rem; /* Set the width to match the height for a perfect circle */
+  border-radius: 50%; /* Use 50% to create a circle */
+  border: none;
+  outline: none;
+  /* box-shadow: 0px 0px 5px #555555; */
+  margin: 0 0.2rem;
+  cursor: pointer;
+}
+
+.indicator-inactive {
+  background-color: black;
+}
+.imagecar {
+  width: 100%;
+  height: 100%;
+  margin-top: -15rem;
+  object-fit: cover;
+  border-radius: 0.5rem;
+  position: relative;
+  opacity: 0.5;
+  
+}
+.imageslider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -8rem;
+  height: 100vh; /* Set a specific height for the container, adjust as needed */
+}
+
+/* Add media query for responsiveness */
+@media (max-width: 768px) {
+  .textcontent {
+    font-size: 13px; /* Adjust the font size for smaller screens */
+    width: 90%; /* Adjust the width for smaller screens */
+  }
+  .slide {
+    width: 50%;
+    height: 50%;
+  }
+}

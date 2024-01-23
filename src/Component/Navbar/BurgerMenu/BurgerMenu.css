@@ -1,0 +1,121 @@
+.Main_Burger_div {
+  transition: all 2s ease-in-out;
+
+  width: 45%;
+  background-color: #3696B4;
+  position: fixed;
+  z-index: 22;
+  top: 0;
+  right: 0;
+
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset 0px 0px 5px rgb(0 0 0 / 20%) !important;
+  overflow: scroll;
+  padding: 1rem;
+}
+.Main_Burger_divar {
+  transition: all 2s ease-in-out;
+
+  width: 45%;
+  background-color: #3696B4;
+  position: fixed;
+  z-index: 22;
+  top: 0;
+  left: 0;
+
+  bottom: 1;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset 0px 0px 5px rgb(0 0 0 / 20%) !important;
+  overflow: scroll;
+  padding: 1rem;
+}
+.close_burger {
+  cursor: pointer;
+  display: flex;
+}
+
+.Burger_nav_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+.divider {
+  border-bottom: dotted 5px var(--grey);
+  margin: 10px 0;
+}
+
+.Burger_nav_item_text {
+  font-family: var(--bold);
+  font-size: 1.2rem;
+  color: var(--navy);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.profile_image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.Burger_logedin_container {
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.Burger_logedin_text {
+  opacity: 0.5;
+  margin-top: 5px;
+}
+@media (max-width: 1070px) {
+  .item-nav1 {
+    font-size: 15px;
+  }
+  .item-nav {
+    font-size: 15px;
+  }
+}
+@media (max-width: 790px) {
+  .item-nav2-1 {
+    display: none;
+  }
+  .imagelogo2 {
+    display: none;
+  }
+  .imagelogo {
+    display: none;
+  }
+  .white-nav {
+    flex-wrap: nowrap;
+    padding: 2px;
+  }
+  .item-nav1 {
+    margin-left: 10px;
+  }
+  .firstcontinnav {
+    flex-wrap: nowrap;
+  }
+  .item-nav {
+    padding-right: 0;
+    border-right: 0px;
+    color:#3696B4;;
+  }
+  .container-nav2111 {
+    display: none;
+  }
+}
+
+@media (min-width: 790px) {
+  .Header_burger_menu {
+    display: none;
+  }
+}

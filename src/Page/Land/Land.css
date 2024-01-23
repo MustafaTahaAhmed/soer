@@ -1,0 +1,35 @@
+.itemnav-climate1 {
+  background-color: rgba(54, 150, 180, 0.68);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  color: white;
+  cursor: pointer;
+  border-radius: 10x;
+  font-size: 15px;
+}
+.information-content1 {
+  /* margin-left: 5%;
+  margin-right: 2%;
+  /* margin-top: 8%; */
+  /* line-height: 25px;  */
+}
+.rowinclimatechange1 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.itemnav-climateselecet1 {
+  color: rgba(54, 150, 180, 0.68);
+  cursor: pointer;
+  border-radius: 10x;
+  font-size: 15px;
+  background-color: rgb(84, 84, 84);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}

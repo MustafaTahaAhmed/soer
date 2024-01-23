@@ -1,0 +1,266 @@
+.div-inblack {
+  display: flex;
+  flex-direction: row;
+  width: 35%;
+}
+.item-nav2-2 {
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  z-index: 1;
+  font-family: "Nunito", sans-serif;
+  transition: color 0.3s;
+  font-family: "regular";
+}
+.item-nav2-2ar {
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: "Nunito", sans-serif;
+  transition: color 0.3s;
+  font-family: "regular";
+}
+.item-nav2-21111 {
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: "Nunito", sans-serif;
+  transition: color 0.3s;
+  border-bottom: 2px dashed white;
+  padding: 1rem;
+  /* Add transition for smoother color change */
+}
+.item-nav2-2:hover {
+  color: lightblue; /* Change color on hover */
+}
+.item-nav2-2.selected {
+  color:#222325 !important; /* Change color for the selected item */
+  font-weight: bold; /* You can add other styles for the selected item here */
+  font-family: 'Roboto', sans-serif;
+}
+.item-nav2-2ar.selected {
+  color:#222325 !important; /* Change color for the selected item */
+  font-weight: bold; /* You can add other styles for the selected item here */
+  font-family: "regular";
+  
+}
+.div-inblack1 {
+  display: flex;
+  flex-direction: row;
+  width: 65%;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.nav-item {
+  color: white;
+  font-size: 1rem;
+}
+.nav-item1 {
+  color: rgba(255, 255, 255, 0.663);
+  font-size: 1rem;
+}
+.container-nav {
+  display: flex;
+  flex-direction: column;
+}
+.white-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3.3rem;
+  background-color: white;
+}
+.item-nav {
+  color: #6e6e6d;
+  font-size: 35px;
+  font-family: sans-serif;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  font-weight: 500;
+  padding-right: 2rem;
+}
+.item-navar {
+  color: #6e6e6d;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  font-weight: 500;
+  padding-left: 4rem;
+}
+.logo-nav {
+  margin-left: 2rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.item-nav1 {
+  color: #6e6e6d;
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2rem;
+  cursor: pointer;
+}
+
+.item-nav1ar {
+  color: #6e6e6d;
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+.item-nav2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-weight: bold;
+}
+.item-nav2-1 {
+  border: 2px solid #605e5eae;
+  padding: 10px 20px;
+  cursor: pointer;
+
+  border-radius: 10px;
+}
+.imagelogo2 {
+  width: 3.5rem;
+  margin-right: 2rem;
+}
+.firstcontinnav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.imagelogo {
+  min-width: 50px;
+  height: 50px;
+  margin-left: 1rem;
+}
+.textinnav {
+  color: #3696b4;
+  font-size: 1.2rem;
+  margin-left: 2rem;
+}
+.firsttext {
+  font-weight: 4rem;
+  font-size: 1.9rem;
+}
+.container-nav {
+  box-shadow: 3px 8px 22px 15px rgba(0, 0, 0, 0.18);
+  -webkit-box-shadow: 3px 8px 22px 15px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 3px 8px 22px 15px rgba(0, 0, 0, 0.18);
+}
+.react-multiple-carousel__arrow .react-multiple-carousel__arrow--left {
+  z-index: 0;
+}
+.react-multiple-carousel__arrow .react-multiple-carousel__arrow--right {
+  z-index: 0;
+}
+.nav-all {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  z-index: 100;
+  transition: transform 0.3s ease-in-out;
+  transform: translateY(0);
+  position: relative;
+}
+.nav-hidden {
+  transform: translateY(-100%);
+}
+.container-nav2 {
+  width: 89%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #3696b4;
+
+  clip-path: polygon(0 -100%, 100% -1%, 97% 100%, 9% 100%);
+  gap: 2rem;
+
+  padding-left: 5rem;
+  opacity: 0.8;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.container-nav2ar {
+  width: 89%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #3696b4;
+
+  clip-path: polygon(100% -100%, 0 -1%, 3% 100%, 91% 100%);
+  gap: 2rem;
+
+  padding-right: 5rem;
+  opacity: 0.8;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.container-nav21 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color:#3696B4;
+
+  gap: 2rem;
+
+  opacity: 0.8;
+}
+.item-nav2-2 {
+  color: white;
+  cursor: pointer;
+
+  font-size: 16px;
+  font-family: "Nunito", sans-serif;
+}
+.container-nav211 {
+  height: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #3696b4;
+
+  opacity: 0.8;
+}
+.container-nav2111 {
+  display: flex;
+  flex-direction: column;
+}
+.over{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+@media (max-width: 500px) {
+  .item-navar {
+    font-size: 20px;
+  }
+}

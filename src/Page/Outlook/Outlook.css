@@ -1,0 +1,30 @@
+.itemnav-climate {
+  background-color: #3696b4;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  color: white;
+  cursor: pointer;
+  border-radius: 10x;
+  font-size: 15px;
+}
+
+.rowinclimatechange {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.itemnav-climateselecet {
+  color: #3696b4;
+  cursor: pointer;
+  border-radius: 10x;
+  font-size: 15px;
+  background-color: rgb(84, 84, 84);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}

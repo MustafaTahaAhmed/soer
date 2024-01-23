@@ -1,0 +1,16 @@
+/* styles.css or your CSS file */
+
+/* Default to left-to-right (English) */
+html {
+  direction: ltr;
+}
+
+/* Set the direction to right-to-left (Arabic) */
+html[dir="rtl"] {
+  direction: rtl;
+}
+@font-face {
+  font-family: "regular";
+  src: url(./assest/Font/NotoNaskhArabic-Regular.ttf);
+  /* src: url(../font/OpenSans-Bold.ttf); */
+}
