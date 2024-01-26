@@ -5,16 +5,16 @@ import env from "./../../assest/Images/Home/envAndDev.png";
 import Footer from "../../Component/footer/Footer";
 import { BsBell } from "react-icons/bs";
 import { BiWorld } from "react-icons/bi";
-import { GiNuclearWaste } from "react-icons/gi";
+import { GiTrashCan } from "react-icons/gi";
 import { useTranslation } from "react-i18next";
 import { useEffect, useState } from "react";
-import { CgCodeClimate } from "react-icons/cg";
+import { GiThermometerHot } from "react-icons/gi";
 import { BiLandscape } from "react-icons/bi";
 import { FaWater } from "react-icons/fa";
 import { TiWorldOutline } from "react-icons/ti";
 import { GiIsland } from "react-icons/gi";
-import { GiBiohazard } from "react-icons/gi";
-import { MdOutlineWbSunny } from "react-icons/md";
+import { GiPlantsAndAnimals } from "react-icons/gi";
+import { IoDocumentTextOutline } from "react-icons/io5";
 import image from '../../assest/Images/MicrosoftTeams-image (1).png';
 function Home() {
   const { t, i18n } = useTranslation();
@@ -76,13 +76,13 @@ function Home() {
         />
         <Card
           title={t("Navbar.Climate Change")}
-          icon={CgCodeClimate}
+          icon={GiThermometerHot}
           onClick="/apps/climate-change"
           // description="This application displays the marine water and coastal water quality data measured at different monitoring locations across Kuwait."
         />
         <Card
           title={t("Navbar.Waste")}
-          icon={GiNuclearWaste}
+          icon={GiTrashCan}
           onClick="/apps/waste"
           // description="This application displays the marine water and coastal water quality data measured at different monitoring locations across Kuwait."
         />
@@ -107,7 +107,7 @@ function Home() {
         />
         <Card
           title={t("Navbar.Biodiversity")}
-          icon={GiBiohazard}
+          icon={GiPlantsAndAnimals}
           onClick="/apps/biodiversity"
           // description="This application displays the marine water and coastal water quality data measured at different monitoring locations across Kuwait."
         />
@@ -119,7 +119,7 @@ function Home() {
         />
            <Card
           title={t("Navbar.Outlook")}
-          icon={MdOutlineWbSunny}
+          icon={IoDocumentTextOutline}
           onClick="/apps/outlook"
           // description="This application displays the marine water and coastal water quality data measured at different monitoring locations across Kuwait."
         />
