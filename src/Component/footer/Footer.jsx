@@ -43,7 +43,7 @@ function Footer() {
         </div>
 
         <div className="footer-left">
-        <a href="https://www.un.org/en/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.unep.org/regions/west-asia" target="_blank" rel="noopener noreferrer">
           <img src={logo1} alt="logo" className="footer-logo1" /></a>
           <div className="footer-left-top"></div>
         </div>
