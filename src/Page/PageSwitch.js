@@ -2,18 +2,17 @@ import React, { useLayoutEffect, useState, useEffect } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import Home from "./Home/Home";
 import Navbar from "../Component/Navbar/Navbar";
-import Jordan from "./Jordan/Jordan";
+/*import Jordan from "./Jordan/Jordan";
 import Information from "./Information/Information";
-import Performance from "./Performance/Performance";
+import Performance from "./Performance/Performance";*/
 import ClimateChange from "./ClimateChange/ClimateChange";
-import Pollution from "./Pollution/Pollution";
+/*import Pollution from "./Pollution/Pollution";*/
 import Water from "./Water/Water";
 import Biodiversity from "./Biodiversity/Biodiversity";
-import Forest from "./Forest/Forest";
+/*import Forest from "./Forest/Forest";*/
 import Land from "./Land/Land";
-import Greeneconomy from "./Greeneconomy/Greeneconomy";
-import Finance from "./Finance/Finance";
-import CountrySpecificinformData from "./CountrySpecificinformData/CountrySpecificinformData";
+/*import Greeneconomy from "./Greeneconomy/Greeneconomy";
+import Finance from "./Finance/Finance";*/
 import Atmosphere from "./Atmosphere/Atmosphere";
 import Environment from "./Environment/Environment";
 import { IoIosArrowDropupCircle } from "react-icons/io";
@@ -56,35 +55,35 @@ function PageSwitch() {
       </div>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/apps/" element={<Jordan />} />
+        {/*<Route path="/apps/" element={<Jordan />} />
         <Route
           path="/apps/EnvironmentandDevelopment"
           element={<Information />}
-        />
+        />*/}
         <Route
           path="/apps/coastal-&-marine-environment"
           element={<Coastal />}
         />
         <Route path="/apps/outlook" element={<Outlook />} />
-        <Route
+        {/*<Route
           path="/apps/environmental-performance"
           element={<Performance />}
-        />
+        />*/}
         <Route path="/apps/climate-change" element={<ClimateChange />} />
-        <Route
+        {/*<Route
           path="/apps/pollution-section-responses"
           element={<Pollution />}
-        />
+        />*/}
         <Route path="/apps/water-resources" element={<Water />} />
         <Route path="/apps/biodiversity" element={<Biodiversity />} />
-        <Route path="/apps/forest-section-drivers" element={<Forest />} />
+        {/*<Route path="/apps/forest-section-drivers" element={<Forest />} />*/}
 
         <Route path="/apps/land-resources" element={<Land />} />
-        <Route path="/apps/green-section-drivers" element={<Greeneconomy />} />
-        <Route
+        {/*<Route path="/apps/green-section-drivers" element={<Greeneconomy />} />*/}
+        {/*<Route
           path="/apps/sustainable-finance-section-drivers"
           element={<Finance />}
-        />
+        />*/}
         <Route
           path="/apps/environment-&-development"
           element={<Environment />}
