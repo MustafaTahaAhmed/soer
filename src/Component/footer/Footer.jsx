@@ -36,6 +36,9 @@ function Footer() {
               {t("footer.Environment Public Authority")}
             </div>
             <div className="footetitle2">
+              {t("footer.Environmental Data Management")}
+            </div>
+            <div className="footetitle2">
               {t("footer.Environmental Data Department")}
             </div>
           </div>
