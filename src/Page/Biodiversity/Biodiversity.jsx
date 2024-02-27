@@ -50,7 +50,7 @@ function Biodiversity() {
             width="100%"
             className="responsive-iframe"
             height="100%"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMTI1YTcwMjEtOGQ1MC00Yjg4LWIwODItY2Q1OGVkNmVmMjAwIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiNGM0YTk5ZDEtMGY4OS00YTIzLWIzNDgtZmM2OTA0Y2RhMmZjIiwidCI6ImUyNjhiNDg0LWQ0NzEtNDA0MC1iM2E2LTk0ODg0M2RlMWY5MSIsImMiOjl9"
             frameborder="0"
             allowFullScreen="true"
           ></iframe>
@@ -60,7 +60,7 @@ function Biodiversity() {
             width="100%"
             className="responsive-iframe"
             height="100%"
-            src="https://app.powerbi.com/view?r=eyJrIjoiYjA0NWYwNzctNWVkMS00NmMwLTk2ZDQtZDQ5ODQwYWY1ODY1IiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiMzM0OTUyNGUtOGVmOC00NzFjLWI0NGEtN2I5Zjk3ZGJhYjEwIiwidCI6ImUyNjhiNDg0LWQ0NzEtNDA0MC1iM2E2LTk0ODg0M2RlMWY5MSIsImMiOjl9"
             frameborder="0"
             allowFullScreen="true"
           ></iframe>

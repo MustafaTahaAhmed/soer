@@ -62,7 +62,7 @@ function Water() {
             width="100%"
             className="responsive-iframe"
             height="100%"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMTU4MTIxOGUtODQ0OC00MTYwLWJlZDAtZmIzODAzNjAyZDE0IiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiOGZmOThmY2YtNGE4Yy00NWE1LThmOTItMTg0ODE2NDg0OTc5IiwidCI6ImUyNjhiNDg0LWQ0NzEtNDA0MC1iM2E2LTk0ODg0M2RlMWY5MSIsImMiOjl9"
             frameborder="0"
             allowFullScreen="true"
           ></iframe>
@@ -72,7 +72,7 @@ function Water() {
             width="100%"
             className="responsive-iframe"
             height="100%"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMWE3MzI0MTAtNDhmMC00ZjU5LWIzZjEtM2QxODUwZjc4MjFmIiwidCI6IjNlOTQyYWU0LWNkOTMtNGQzNy1iZTJmLTY5MzllNDNjMTRiNyJ9"
+            src="https://app.powerbi.com/view?r=eyJrIjoiM2EyYzVjYzEtN2ZlMC00NGNkLWE4OWItMDg2ZTgyNDI0ZDI0IiwidCI6ImUyNjhiNDg0LWQ0NzEtNDA0MC1iM2E2LTk0ODg0M2RlMWY5MSIsImMiOjl9"
             frameborder="0"
             allowFullScreen="true"
           ></iframe>
