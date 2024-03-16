@@ -39,14 +39,13 @@ function Home() {
   style={{
     width: '100%',
     
-    marginTop: '-6rem',
-    objectFit: 'cover',
     borderRadius: '0.5rem',
     position: 'relative'
   }}
   alt="img"
 />
 </div>
+<div class="mouse"></div>
         {/*<div className="textinimage">
           <div className="centerthetext">{t("Navbar.Beatona")}</div>
 </div>*/}
@@ -65,7 +64,7 @@ function Home() {
       </a>
     </div>
     
-
+   
       <div className="apptitle"></div>
       <div className="cardhome">
         <Card
